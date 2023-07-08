@@ -11,3 +11,6 @@ const selectCarPrice = carPrice[Math.floor(Math.random()*carPrice.length)]
 
 console.log( `You should buy a car that runs on ${selectFuel} , the brand should be ${selectCarBrand},
     And you should spend ${selectCarPrice} kr`);
+
+
+    
